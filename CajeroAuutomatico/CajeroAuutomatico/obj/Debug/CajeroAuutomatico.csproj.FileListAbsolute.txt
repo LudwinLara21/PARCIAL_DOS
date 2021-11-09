@@ -1,0 +1,2 @@
+C:\Users\MINEDUCYT\Desktop\Ludwin\PARCIAL_DOS\CajeroAuutomatico\CajeroAuutomatico\obj\Debug\CajeroAuutomatico.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Ludwin\PARCIAL_DOS\CajeroAuutomatico\CajeroAuutomatico\obj\Debug\CajeroAuutomatico.csproj.CoreCompileInputs.cache

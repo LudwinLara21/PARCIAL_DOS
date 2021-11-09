@@ -1,0 +1,17 @@
+﻿@model CajeroAuutomatico.Models.ModeloGeneral
+@{
+    ViewBag.Title = "index";
+}
+
+<h2>index</h2>
+@using (Html.BeginForm("index", "ModeloGeneral", FormMethod.Post))
+{
+
+
+    <label>Ingrese una cantidad de dinero </label>
+    @Html.TextBoxFor(a => a.Monto)
+    <br />
+
+    <input type="submit" />
+
+}
